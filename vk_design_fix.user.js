@@ -12,7 +12,7 @@
 // ==/UserScript==
 
 var script = document.createElement('script');
-script.src = "http://inoyakaigor.ru/progs/userscripts/vk_design_fix.js";
+script.src = "https://raw.githubusercontent.com/inoyakaigor/vk_design_fix/master/vk_design_fix.js";
 
 (function(){
     function main(){
