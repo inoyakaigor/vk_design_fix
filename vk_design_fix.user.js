@@ -1,7 +1,7 @@
 // ==UserScript==
 // @id             vk.com-da3b91f1-5cdc-46e4-a4a9-1a55e1f21a1b@inoyakaigor.ru
 // @name           Disign fix for VK
-// @version        1.0
+// @version        1.0.1
 // @namespace      inoyakaigor.ru
 // @author         Игорь InoY Звягинцев
 // @description    Изменяет заголовки новостей в ленте, ставит тень вокруг фото, изменяет авы и убирает away.php из ссылок на внешние сайты
