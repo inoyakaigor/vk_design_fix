@@ -113,6 +113,12 @@ a.mention_tt_person {\
   border-radius: 0px;\
 .page_album_title_wrap {\
   background: linear-gradient(to top, #000 40%, rgba(0, 0, 0, 0));\
+}\
+.img_link > img:hover {\
+    transform: scale(1.1);\
+}\
+.img_link > img {\
+    transition: all 0.5s ease 0s;\
 };"
 var style = document.createElement("STYLE");
 //style.type = "text/css";
