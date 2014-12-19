@@ -100,9 +100,6 @@ a.mention_tt_person {\
   width: 50px;\
   margin-right: 15px;\
  }\
- .im_sticker_row > img, img.im_gift {\
-  height: 60px;\
-}\
 .fans_idolph_wrap {\
   margin-right: 10px;\
   width: 100px;\
