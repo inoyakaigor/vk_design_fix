@@ -101,7 +101,7 @@ a.mention_tt_person {\
   margin-right: 15px;\
  }\
  .im_sticker_row > img, img.im_gift {\
-  height: 40px;\
+  height: 60px;\
 }\
 .fans_idolph_wrap {\
   margin-right: 10px;\
